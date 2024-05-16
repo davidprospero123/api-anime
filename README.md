@@ -1,5 +1,5 @@
 <h1 align="center">¡Bienvenidos a la API de Imágenes de Anime! 🌟</h1>
-## P KAUSA
+}
 <p align="center">
   <img src="https://c.tenor.com/nOocfxmtbL0AAAAC/tenor.gif" width="200px" alt="Anime GIF">
 </p>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/davidprospero123">
-    <img src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Bienvenido+a+esta+API+de+imágenes+de+anime+por+DavidProspero+🤗" alt="DavidProspero">
+    <img src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Bienvenido+a+esta+API+de+imágenes+de+anime+por+DavidProspero+:V" alt="DavidProspero">
   </a>
 </p>
 

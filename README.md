@@ -1,5 +1,5 @@
 <h1 align="center">¡Bienvenidos a la API de Imágenes de Anime! 🌟</h1>
-}
+
 <p align="center">
   <img src="https://c.tenor.com/nOocfxmtbL0AAAAC/tenor.gif" width="200px" alt="Anime GIF">
 </p>

@@ -19,9 +19,3 @@
     <img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" alt="Kanna">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/davidprospero123">
-    <img src="https://cardivo.vercel.app/api?name=GABRIEL%20Hashiba&description=¡Hola! Soy Gabriel, un amante del anime y un apasionado programador en proceso de aprendizaje. ¡Estoy emocionado de compartir esta API de imágenes de anime contigo!&image=https://i.pinimg.com/564x/36/f2/f8/36f2f803dadcb48565a3babb1bd50cff.jpg&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=davidprospero123&pattern=leaf&colorPattern=%23eaeaea" alt="GABRIEL">
-  </a>
-</p>
